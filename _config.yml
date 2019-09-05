@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Hanzi Mao"
-  avatar           : "HANZI_MAO.PNG"
+  avatar           : "HANZI_MAO.JPG"
   bio              : "PhD student, Department of Computer Science and Engineering, Texas A&M University"
   location         : "College Station, Texas"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7Tl_XtoAAAAJ&hl=en"
-  email            : "hzmao@tamu.edu"
+  email            : "hannamao15 at gmail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
