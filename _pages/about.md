@@ -15,7 +15,7 @@ I obtained my Bachelor's and Master's degrees in telecommunication engineering a
 I love climbing, hiking, swimming, and would love to learn painting and piano when I have more time. 
 
 ## Research Projects
-<img align="left" width="100" height="100" src="/images/Fig22.png">
+<img align="left" width="200" height="200" src="/images/Fig22.png">
 [Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024902)<br/>
 **Hanzi Mao**, Dhruva Kathuria, Nick Duffield, Binayak P. Mohanty
 Water Resources Research, 2019
