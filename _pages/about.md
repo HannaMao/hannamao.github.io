@@ -14,6 +14,10 @@ I obtained my Bachelor's and Master's degrees in telecommunication engineering a
 
 I love climbing, hiking, swimming, and would love to learn painting and piano when I have more time. 
 
+## Research Projects
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+This is the code you need to align images to the right:
+
 ## Internships
 * **Machine Learning Engineer Intern**, [Pinterest Labs](https://labs.pinterest.com/), Summer 2019, San Francisco, CA<br/>
 Worded on Shopping Ads Quality team on both ads retrieval and ads ranking.
