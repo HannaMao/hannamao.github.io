@@ -14,6 +14,15 @@ I obtained my Bachelor's and Master's degrees in telecommunication engineering a
 
 I love climbing, hiking, swimming, and would love to learn painting and piano when I have more time. 
 
+Internships
+======
+**[Pinterest Labs](https://labs.pinterest.com/) Research Intern**, [Pinterest](https://www.pinterest.com/), Summer 2019
+Worded as machine learning engineer on Shopping Ads Quality team for both ads retrieval and ads ranking.
+**[Pinterest Labs](https://labs.pinterest.com/) Research Intern**, [Pinterest](https://www.pinterest.com/), Summer 2018
+Worked as machine learning engineer on Ads Targeting team.
+**Data Scientist Intern**, [Halliburton](https://www.halliburton.com/en-US/default.html), Summer 2017
+Designed and implemented an automatic data assimilation system named Ensemble Kalman Filter for fast history matching of oil production. 
+
 Publications
 ======
 * **Hanzi Mao**, Dhruva Kathuria, Nick Duffield, Binayak P. Mohanty. [Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024902). Water Resources Research, 2019.
@@ -24,8 +33,8 @@ Publications
 
 Services
 ======
-Reviewer [IEEE BigData 2019](http://bigdataieee.org/BigData2019/), 
-[International Journal of Remote Sensing](https://www.tandfonline.com/loi/tres20)
+Reviewer for [IEEE BigData 2019](http://bigdataieee.org/BigData2019/), 
+[International Journal of Remote Sensing](https://www.tandfonline.com/loi/tres20).
 
 Recent News
 ======
