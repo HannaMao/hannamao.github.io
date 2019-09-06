@@ -18,7 +18,7 @@ I love climbing, hiking, swimming, and would love to learn painting and piano wh
 <img align="left" width="250" height="250" src="/images/Fig22.png" hspace="20" vspace="40">
 [Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024902)<br/>
 **H. Mao**, D. Kathuria, N. Duffield, B. P. Mohanty<br/>
-Water Resources Research, 2019<br/>  
+Water Resources Research, 2019  
 A new gap‐filled soil moisture product to address the poor spatial and temporal coverage of the SMAP/Sentinel‐1 product.
 
 
