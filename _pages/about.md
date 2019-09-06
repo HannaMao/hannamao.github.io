@@ -22,6 +22,6 @@ Publications
 
 Recent News
 ======
-* Sept. 2019: I was invited as panelist to the Internship Panel of CSCE 181 at Texas A&M University.
+* Sept. 2019: I was invited as panelist to the CSCE 181 Internship Panel at Texas A&M University.
 * Aug. 2019: I finished my internship at Pinterest on Shopping Ads Quality team. 
 
