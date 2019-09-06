@@ -15,11 +15,9 @@ I obtained my Bachelor's and Master's degrees in telecommunication engineering a
 I love climbing, hiking, swimming, and would love to learn painting and piano when I have more time. 
 
 ## Internships
-* **Machine Learning Engineer Intern**, [Pinterest Labs](https://labs.pinterest.com/), Pinterest, Summer 2019<br/> 
-San Francisco, CA<br/>
+* **Machine Learning Engineer Intern**, [Pinterest Labs](https://labs.pinterest.com/), Summer 2019, San Francisco, CA<br/>
 Worded on Shopping Ads Quality team on both ads retrieval and ads ranking.
-* **Machine Learning Engineer Intern**, [Pinterest Labs](https://labs.pinterest.com/), Pinterest, Summer 2018<br/> 
-San Francisco, CA<br/>
+* **Machine Learning Engineer Intern**, [Pinterest Labs](https://labs.pinterest.com/), Summer 2018, San Francisco, CA<br/>
 Worked on Ads Targeting team to improve the Broadmatch expander to deliver more relevant ads.
 * **Data Scientist Intern**, Halliburton, Summer 2017, Houston, Texas<br/>
 Designed and implemented an automatic data assimilation system named Ensemble Kalman Filter for fast history matching of oil production. 
@@ -37,6 +35,6 @@ Reviewer for [IEEE BigData 2019](http://bigdataieee.org/BigData2019/), and
 
 Recent News
 ======
-* Sept. 2019: I was invited as panelist to the CSCE 181 Internship Panel at Texas A&M University.
-* Aug. 2019: I finished my internship at Pinterest on Shopping Ads Quality team. 
+* 2019/09: I was invited as a panelist to the CSCE 181 Internship Panel at Texas A&M University.
+* 2019/08: I finished my internship at Pinterest on Shopping Ads Quality team. 
 
