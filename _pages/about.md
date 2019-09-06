@@ -15,7 +15,7 @@ I obtained my Bachelor's and Master's degrees in telecommunication engineering a
 I love climbing, hiking, swimming, and would love to learn painting and piano when I have more time. 
 
 ## Research Projects
-<img align="left" width="100" height="100" src="/images/500x300.png">
+<img align="left" width="100" height="100" src="/images/Fig22.png">
 This is the code you need to align images to the right:
 
 ## Internships
