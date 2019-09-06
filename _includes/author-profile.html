@@ -16,9 +16,11 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio1 %}<p class="author__bio">{{ author.bio1 }}</p>{% endif %}
-    {% if author.bio2 %}<p class="author__bio">{{ author.bio2 }}</p>{% endif %}
-    {% if author.bio3 %}<p class="author__bio">{{ author.bio3 }}</p>{% endif %}
+    <p class="author__bio">
+      <p class="author__subline">{% if author.bio1 %}{{ author.bio1 }}{% endif %}</p>
+      <p class="author__subline">{% if author.bio2 %}{{ author.bio2 }}{% endif %}</p>
+      <p class="author__subline">{% if author.bio3 %}{{ author.bio3 }}{% endif %}</p>
+    </p>
   </div>
 
   <div class="author__urls-wrapper">
