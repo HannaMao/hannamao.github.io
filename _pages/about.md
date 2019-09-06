@@ -16,11 +16,11 @@ I love climbing, hiking, swimming, and would love to learn painting and piano wh
 
 Internships
 ======
-**[Pinterest Labs](https://labs.pinterest.com/) Research Intern**, [Pinterest](https://www.pinterest.com/), Summer 2019
+* **[Pinterest Labs](https://labs.pinterest.com/) Research Intern**, [Pinterest](https://www.pinterest.com/), Summer 2019, San Francisco, CA
 Worded as machine learning engineer on Shopping Ads Quality team for both ads retrieval and ads ranking.
-**[Pinterest Labs](https://labs.pinterest.com/) Research Intern**, [Pinterest](https://www.pinterest.com/), Summer 2018
+* **[Pinterest Labs](https://labs.pinterest.com/) Research Intern**, [Pinterest](https://www.pinterest.com/), Summer 2018, San Francisco, CA
 Worked as machine learning engineer on Ads Targeting team.
-**Data Scientist Intern**, [Halliburton](https://www.halliburton.com/en-US/default.html), Summer 2017
+* **Data Scientist Intern**, [Halliburton](https://www.halliburton.com/en-US/default.html), Summer 2017, Houston, Texas
 Designed and implemented an automatic data assimilation system named Ensemble Kalman Filter for fast history matching of oil production. 
 
 Publications
@@ -33,7 +33,7 @@ Publications
 
 Services
 ======
-Reviewer for [IEEE BigData 2019](http://bigdataieee.org/BigData2019/), 
+Reviewer for [IEEE BigData 2019](http://bigdataieee.org/BigData2019/), and
 [International Journal of Remote Sensing](https://www.tandfonline.com/loi/tres20).
 
 Recent News
