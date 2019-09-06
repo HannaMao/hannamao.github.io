@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student in the Department of Computer Science and Engineering at Texas A&M University.
+I am a PhD student in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/).
 
 Recent News
 ======
