@@ -14,6 +14,6 @@ I obtained my Bachelor's and Master's degree in telecommunication engineering at
 
 Recent News
 ======
-⋅⋅* Sept. 2019: I was invited as panelist to the Internship Panel of CSCE 181 at Texas A&M University.
-⋅⋅* Aug. 2019: I finished my internship at Pinterest on Shopping Ads Quality team. 
+* Sept. 2019: I was invited as panelist to the Internship Panel of CSCE 181 at Texas A&M University.
+* Aug. 2019: I finished my internship at Pinterest on Shopping Ads Quality team. 
 
