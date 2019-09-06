@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Hanzi Mao"
   avatar           : "HANZI_MAO.JPG"
-  bio              : "PhD student\nDepartment of Computer Science and Engineering\nTexas A&M University"
+  bio1              : "PhD student"
+  bio2           : "Department of Computer Science and Engineering"
+  bio3: "Texas A&M University"
   location         : "College Station, Texas"
   employer         :
   pubmed           : 
