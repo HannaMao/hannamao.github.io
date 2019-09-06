@@ -19,7 +19,7 @@ I love climbing, hiking, swimming, and would love to learn painting and piano wh
 [Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024902)<br/>
 **H. Mao**, D. Kathuria, N. Duffield, B. P. Mohanty<br/>
 Water Resources Research, 2019<br/>  
-A new gap‐filled soil moisture product to address the poor spatial and temporal coverage of the SMAP/Sentinel‐1 3 km product.
+A new gap‐filled soil moisture product to address the poor spatial and temporal coverage of the SMAP/Sentinel‐1 product.
 
 
 ## Internships
