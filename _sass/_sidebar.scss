@@ -100,6 +100,10 @@
   padding-right: 25px;
   line-height: 1;
 
+  .author__subline {
+    margin: 0 !important;
+  } 
+
   @include breakpoint($large) {
     display: block;
     width: 100%;
@@ -128,10 +132,6 @@
     margin-top: 10px;
     margin-bottom: 20px;
   }
-}
-
-.author__content .author__subline {
-  margin: 0 !important;
 }
 
 .author__urls-wrapper {
