@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Hanzi Mao"
   avatar           : "HANZI_MAO.JPG"
-  bio1              : "PhD Candidate"
-  bio2           : "Computer Science"
-  bio3: "Texas A&M University"
+  bio1             : "PhD Candidate"
+  bio2             : "Computer Science"
+  bio3             : "Texas A&M University"
   location         : "College Station, Texas"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7Tl_XtoAAAAJ&hl=en"
   email            : "hannamao15 at gmail dot com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Hanzi_Mao"
   uri              :
   bitbucket        :
   codepen          :
