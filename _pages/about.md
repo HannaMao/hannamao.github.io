@@ -20,7 +20,7 @@ San Francisco, CA<br/>
 Worded on Shopping Ads Quality team on both ads retrieval and ads ranking.
 * **Machine Learning Engineer Intern**, [Pinterest Labs](https://labs.pinterest.com/), Pinterest, Summer 2018<br/> 
 San Francisco, CA<br/>
-Worked on Ads Targeting team to improve the Broadmatch expander to deliver more relevant sds..
+Worked on Ads Targeting team to improve the Broadmatch expander to deliver more relevant ads.
 * **Data Scientist Intern**, Halliburton, Summer 2017, Houston, Texas<br/>
 Designed and implemented an automatic data assimilation system named Ensemble Kalman Filter for fast history matching of oil production. 
 
