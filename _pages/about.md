@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/).
+I am a copmuter science PhD student working with [Nick Duffield](https://nickduffield.net/) at [Texas A&M University](https://www.tamu.edu/). 
 
 Recent News
 ======
