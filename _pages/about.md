@@ -16,7 +16,9 @@ I love climbing, hiking, swimming, and would love to learn painting and piano wh
 
 ## Research Projects
 <img align="left" width="100" height="100" src="/images/Fig22.png">
-This is the code you need to align images to the right:
+[Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024902)<br/>
+**Hanzi Mao**, Dhruva Kathuria, Nick Duffield, Binayak P. Mohanty
+Water Resources Research, 2019
 
 ## Internships
 * **Machine Learning Engineer Intern**, [Pinterest Labs](https://labs.pinterest.com/), Summer 2019, San Francisco, CA<br/>
@@ -27,7 +29,7 @@ Worked on Ads Targeting team to improve the Broadmatch expander to deliver more 
 Designed and implemented an automatic data assimilation system named Ensemble Kalman Filter for fast history matching of oil production. 
 
 ## Publications
-* **Hanzi Mao**, Dhruva Kathuria, Nick Duffield, Binayak P. Mohanty. [Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024902). Water Resources Research, 2019.
+* **Hanzi Mao**, Dhruva Kathuria, Nick Duffield, Binayak P. Mohanty. Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework. Water Resources Research, 2019.
 * Weimin Wu, **Hanzi Mao**, Yi Wang, Ji Wang, Wenkai Wang, Chen Tian. CoolConferencing: Enabling Robust Peer-to-Peer Multi-Party Video Conferencing. IEEE Access, 2017.
 * **Hanzi Mao**, Chen Tian, Jingdong Sun, Junhua Yan, Weimin Wu, Benxiong Huang. Shadow VoD: performance evaluation as a capability in production P2P-CDN hybrid VoD networks. In Proceedings of IEEE USDE, 2014.
 * Junhua Yan, Chen Tian, Jingdong Sun, **Hanzi Mao**. Improve distributed client lifecycle control in shadowstream. International Journal of Web Service Research, 2014.
