@@ -44,6 +44,7 @@ Journal reviewer, [International Journal of Remote Sensing](https://www.tandfonl
 
 Recent News
 ======
+* 2019/11: I will be joining Facebook Seattle as a Research Scientist in Machine Learning in 2020.
 * 2019/09: I was invited as a panelist to the CSCE 181 Internship Panel at Texas A&M University.
 * 2019/08: I finished my internship at Pinterest on Shopping Ads Quality team. 
 
