@@ -38,8 +38,8 @@ Designed and implemented an automatic data assimilation system named Ensemble Ka
 * Binbin Xiong, Weimin Wu, Haojie Li, Hongtao Yu, **Hanzi Mao**. Parameter-Free Inter-view Depth Propagation for Mobile Free-View Video. International Conference on Multimedia Modeling, 2014.
 
 ## Services
-Subreviewer, [The Web Conference(WWW) 2020](https://www2020.thewebconf.org/).<br/>
-Subreviewer, [IEEE BigData 2019](http://bigdataieee.org/BigData2019/).<br/>
+Reviewer, [The Web Conference(WWW) 2020](https://www2020.thewebconf.org/).<br/>
+Reviewer, [IEEE BigData 2019](http://bigdataieee.org/BigData2019/).<br/>
 Journal reviewer, [International Journal of Remote Sensing](https://www.tandfonline.com/loi/tres20).
 
 Recent News
