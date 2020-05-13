@@ -14,6 +14,13 @@ I obtained my Bachelor's and Master's degrees in telecommunication engineering a
 
 I love climbing, hiking, swimming, and would love to learn painting and piano when I have more time. 
 
+## Recent News
+* 2020/05: I defended my PhD dissertation titled as Knowledge-guided Machine Learning for Spatiotemporal Environmental Data Analysis.
+* 2020/01: I was invited as a panelist to the CSCE 181 Internship Panel at Texas A&M University.
+* 2019/11: I will be joining Facebook Seattle as a Research Scientist in Machine Learning in 2020.
+* 2019/09: I was invited as a panelist to the CSCE 181 Internship Panel at Texas A&M University.
+* 2019/08: I finished my internship at Pinterest on Shopping Ads Quality team. 
+
 ## Research Projects
 <img align="left" width="250" height="250" src="/images/Fig22.png" hspace="20" vspace="50">
 Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework<br/>
@@ -42,11 +49,5 @@ Reviewer, [The Web Conference(WWW) 2020](https://www2020.thewebconf.org/).<br/>
 Reviewer, [IEEE BigData 2019](http://bigdataieee.org/BigData2019/).<br/>
 Journal reviewer, [International Journal of Remote Sensing](https://www.tandfonline.com/loi/tres20).
 
-Recent News
-======
-* 2020/05: I defended my PhD dissertation titled as Knowledge-guided Machine Learning for Spatiotemporal Environmental Data Analysis.
-* 2020/01: I was invited as a panelist to the CSCE 181 Internship Panel at Texas A&M University.
-* 2019/11: I will be joining Facebook Seattle as a Research Scientist in Machine Learning in 2020.
-* 2019/09: I was invited as a panelist to the CSCE 181 Internship Panel at Texas A&M University.
-* 2019/08: I finished my internship at Pinterest on Shopping Ads Quality team. 
+
 
