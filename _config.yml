@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanzi Mao"
 title_separator          : "-"
 name                     : &name "Hanzi Mao"
-description              : &description "PhD student at Texas A&M University"
+description              : &description "Research Scientist at Facebook AI"
 url                      : https://hannamao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannamao.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Hanzi Mao"
   avatar           : "HANZI_MAO.JPG"
-  bio1             : "PhD"
-  bio2             : "Computer Science"
-  bio3             : "Texas A&M University"
-  location         : "College Station, Texas"
+  bio1             : "Research Scientist"
+  bio2             : "Facebook AI"
+  bio3             : "PhD in Computer Science"
+  location         : "Seattle, Washington"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7Tl_XtoAAAAJ&hl=en"
