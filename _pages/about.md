@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science PhD student working with [Nick Duffield](https://nickduffield.net/) at [Texas A&M University](https://www.tamu.edu/). My research focuses on applying machine learning to tackle challenging problems in the remote sensing area. I also have extensive engineering experiences in computational advertising through my two summer internships at [Pinterest](https://www.pinterest.com/).
+I am a Research Scientist at Facebook AI Applied Research, where I apply state-of-the-art machine learning techniques to tackle challenging integrity problems at Facebook.
+
+Before that, I obtained my PhD degree in Computer Science working with [Nick Duffield](https://nickduffield.net/) at [Texas A&M University](https://www.tamu.edu/). My research focuses on applying machine learning to tackle challenging problems in the remote sensing area. 
 
 I obtained my Bachelor's and Master's degrees in telecommunication engineering at [Huazhong University of Science and Technology](http://english.hust.edu.cn/), working with Weimin Wu and [Chen Tian](https://cs.nju.edu.cn/tianchen/). 
 
 I love climbing, hiking, swimming, and would love to learn painting and piano when I have more time. 
 
 ## Recent News
+* 2020/08: Our paper Context-aware Deep Representation Learning for Geo-spatiotemporal Analysis was accepted by ICDM 2020.
+* 2020/07: I joined Facebook AI Applied Research (FAIAR) working as a research scientist.
 * 2020/05: I defended my PhD dissertation titled as Knowledge-guided Machine Learning for Spatiotemporal Environmental Data Analysis.
 * 2020/01: I was invited as a panelist to the CSCE 181 Internship Panel at Texas A&M University.
 * 2019/11: I will be joining Facebook Seattle as a Research Scientist in Machine Learning in 2020.
