@@ -21,6 +21,12 @@ I love climbing, hiking, swimming, and would love to learn painting and piano wh
 * 2019/08: I finished my internship at Pinterest on Shopping Ads Quality team. 
 
 ## Research Projects
+<img align="left" width="250" height="250" src="/images/yield.png" hspace="20" vspace="50">
+Context-aware Deep Representation Learning for Geo-spatiotemporal Analysis<br/>
+**H. Mao**, X. Liu, N. Duffield, H. Yuan, S. Ji, B. P. Mohanty<br/>
+ICDM, 2020.  
+A novel semi-supervised attention-based deep representation model that learns context-aware spatiotemporal representations for prediction tasks. [[code]]( https://github.com/HannaMao/Context-Aware-Representation-Crop-Yield-Prediction)
+
 <img align="left" width="250" height="250" src="/images/Fig22.png" hspace="20" vspace="50">
 Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework<br/>
 **H. Mao**, D. Kathuria, N. Duffield, B. P. Mohanty<br/>
