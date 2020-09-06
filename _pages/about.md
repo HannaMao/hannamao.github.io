@@ -27,7 +27,7 @@ Context-aware Deep Representation Learning for Geo-spatiotemporal Analysis<br/>
 ICDM, 2020.  
 A novel semi-supervised attention-based deep representation model that learns context-aware spatiotemporal representations for prediction tasks. [[code]]( https://github.com/HannaMao/Context-Aware-Representation-Crop-Yield-Prediction)<br/>
 
-<img align="left" width="250" height="250" src="/images/Fig22.png" hspace="20" vspace="50">
+<img align="left" width="250" height="250" src="/images/Fig22.png" hspace="20" vspace="50" style="display: block;">
 Gap Filling of High- Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework<br/>
 **H. Mao**, D. Kathuria, N. Duffield, B. P. Mohanty<br/>
 Water Resources Research, 2019.  
