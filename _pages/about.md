@@ -25,7 +25,7 @@ I love climbing, hiking, swimming, and would love to learn painting and piano wh
 Context-aware Deep Representation Learning for Geo-spatiotemporal Analysis<br/>
 **H. Mao**, X. Liu, N. Duffield, H. Yuan, S. Ji, B. P. Mohanty<br/>
 ICDM, 2020.  
-A novel semi-supervised attention-based deep representation model that learns context-aware spatiotemporal representations for prediction tasks. [[code]]( https://github.com/HannaMao/Context-Aware-Representation-Crop-Yield-Prediction)<br/>
+A novel semi-supervised attention-based deep representation model that learns context-aware spatiotemporal representations for prediction tasks. [[code]]( https://github.com/facebookresearch/Context-Aware-Representation-Crop-Yield-Prediction)<br/>
 
 <br>
 
