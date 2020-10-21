@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title ng-bind="pageTitle"></title>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <script type="text/javascript" src="config/env-build.js?v=db5a119c4e0a49726df7"></script>
+  <style id="antiClickjack">
+    body { display: none !important; }
+  </style>
+  <script type="text/javascript">
+      if (self === top) {
+          var antiClickjack = document.getElementById("antiClickjack");
+          antiClickjack.parentNode.removeChild(antiClickjack);
+      } else {
+          top.location = self.location;
+      }
+  </script>
+  <script src="oidc-client.min.js"></script>
+  <script>
+    var config = {
+      authority: window.APP_CONFIG.IDAAS_ENDPOINT,
+      client_id: 'CaseApp',
+      redirect_uri: window.APP_CONFIG.IDAAS_REDIRECT_URI,
+      response_type: 'code',
+      scope: window.APP_CONFIG.IDAAS_SCOPE,
+      monitorSession: false, //disable this so that user is not forced out of session when idaas auth cookie is expired
+      automaticSilentRenew: false, // this could replace TokenRefresher
+      silent_redirect_uri: window.APP_CONFIG.IDAAS_SILENT_REDIRECT_URI,
+      revokeAccessTokenOnSignout: true,
+      post_logout_redirect_uri: window.APP_CONFIG.IDAAS_LOGOUT_REDIRECT_URI,
+      loadUserInfo: false
+    };
+
+    // all restricted views inherit after dashboard and empty route redirects to dashboard
+    if ((!window.location.hash || window.location.hash.includes('#/dashboard')) &&
+      (!sessionStorage.getItem('AT') || !sessionStorage.getItem('idaas_jwt'))) {
+      try {
+        var manager = new Oidc.UserManager(config);
+
+        var currentVal = sessionStorage.getItem('idaas_redirect');
+
+        if (!currentVal && window.location.href.indexOf("sso=true") < 0)
+        {
+          // only set new redirect value if this redirect is NOT IDP initiated sign-in
+          sessionStorage.setItem('idaas_redirect', window.location.href);
+        }
+
+        const provider = /provider=(.+)/.exec(window.location.hash);
+        const showSSOTab = /sso=(.+)/.exec($window.location.hash);
+        //Take provider first otherwise check if we should show SSO tab in IDaaS UI
+        const acr = (provider && provider.length > 1 && provider[1]) || (showSSOTab && showSSOTab.length > 1 && "sso=" + showSSOTab[1]);
+
+        manager.signinRedirect({
+          acr_values: acr
+        });
+      } catch (error) {
+        console.log(error);
+      }
+    }
+  </script>
+  <style>
+    .container .middle {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      min-height: 50vh;
+    }
+
+    #preloader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    #loader {
+      display: block;
+      position: relative;
+      left: 50%;
+      top: 50%;
+      width: 150px;
+      height: 150px;
+      margin: -75px 0 0 -75px;
+      border-radius: 50%;
+      border: 3px solid transparent;
+      border-top-color: #ffe24a;
+      -webkit-animation: spin 2s linear infinite;
+      animation: spin 2s linear infinite;
+    }
+
+    #loader:before {
+      content: "";
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      right: 5px;
+      bottom: 5px;
+      border-radius: 50%;
+      border: 3px solid transparent;
+      border-top-color: #404041;
+      -webkit-animation: spin 3s linear infinite;
+      animation: spin 3s linear infinite;
+    }
+
+    #loader:after {
+      content: "";
+      position: absolute;
+      top: 15px;
+      left: 15px;
+      right: 15px;
+      bottom: 15px;
+      border-radius: 50%;
+      border: 3px solid transparent;
+      border-top-color: #ffe24a;
+      -webkit-animation: spin 1.5s linear infinite;
+      animation: spin 1.5s linear infinite;
+    }
+
+    @-webkit-keyframes spin {
+      0% {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+      }
+
+      100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+      }
+    }
+
+    @keyframes spin {
+      0% {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+      }
+
+      100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+      }
+    }
+
+    .loading-text {
+      color: #777777;
+      text-align: center;
+      font-weight: 400 !important;
+      font-family: -apple-system, BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" !important;
+      font-size: 16px !important;
+      line-height: 24px !important;
+      top: 50px !important;
+      left: 50% !important;
+      position: fixed !important;
+      margin-top: 0 !important;
+      width: 300px !important;
+      margin-left: -150px !important;
+    }
+  </style>
+<link href="vendor~253ae210.db5a119c4e0a49726df7.css" rel="stylesheet"><link href="vendor~37127547.db5a119c4e0a49726df7.css" rel="stylesheet"><link href="vendor~678f84af.db5a119c4e0a49726df7.css" rel="stylesheet"><link href="vendor~fd731fb0.db5a119c4e0a49726df7.css" rel="stylesheet"><link href="css~d0ae3f07.db5a119c4e0a49726df7.css" rel="stylesheet"><link href="app~d0ae3f07.db5a119c4e0a49726df7.css" rel="stylesheet"><link href="react~d0ae3f07.db5a119c4e0a49726df7.css" rel="stylesheet"></head>
+
+<body ng-app="case-management" ng-controller="AppCtrl">
+
+  <div class="container middle" id="full-page-spinner" ng-if="!hideIndexLoader">
+    <p class="loading-text">Loading...</p>
+    <div id="preloader">
+      <div id="loader"></div>
+    </div>
+  </div>
+
+  <div class="container-fluid" ui-view="main">
+
+  </div>
+
+  <heap-analytics></heap-analytics>
+  <new-relic></new-relic>
+  <a id="cobalt-download-anchor" style="display: none;"></a>
+<script type="text/javascript" src="vendor~253ae210.db5a119c4e0a49726df7.js"></script><script type="text/javascript" src="vendor~37127547.db5a119c4e0a49726df7.js"></script><script type="text/javascript" src="vendor~e4173fa2.db5a119c4e0a49726df7.js"></script><script type="text/javascript" src="vendor~7274e1de.db5a119c4e0a49726df7.js"></script><script type="text/javascript" src="vendor~1f20a385.db5a119c4e0a49726df7.js"></script><script type="text/javascript" src="vendor~678f84af.db5a119c4e0a49726df7.js"></script><script type="text/javascript" src="vendor~fd731fb0.db5a119c4e0a49726df7.js"></script><script type="text/javascript" src="app~d0ae3f07.db5a119c4e0a49726df7.js"></script><script type="text/javascript" src="react~d0ae3f07.db5a119c4e0a49726df7.js"></script></body>
+</html>

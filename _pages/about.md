@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Facebook AI Applied Research, where I apply state-of-the-art machine learning techniques to tackle challenging integrity problems at Facebook.
+I am a Research Scientist at Facebook AI Applied Research. Before that, I obtained my PhD degree in Computer Science working with [Nick Duffield](https://nickduffield.net/) at [Texas A&M University](https://www.tamu.edu/). My research focused on applying machine learning to tackle challenging problems in the remote sensing area. 
 
-Before that, I obtained my PhD degree in Computer Science working with [Nick Duffield](https://nickduffield.net/) at [Texas A&M University](https://www.tamu.edu/). My research focused on applying machine learning to tackle challenging problems in the remote sensing area. I obtained my Bachelor's and Master's degrees in telecommunication engineering at [Huazhong University of Science and Technology](http://english.hust.edu.cn/), working with Weimin Wu and [Chen Tian](https://cs.nju.edu.cn/tianchen/). 
-
-I love climbing, hiking, swimming, and would love to learn painting and piano when I have more time. 
+I love climbing, hiking, swimming, and ~~would love to learn painting and piano~~(learning) when I have more time. 
 
 ## Recent News
 * 2020/08: Our paper Context-aware Deep Representation Learning for Geo-spatiotemporal Analysis was accepted by ICDM 2020.
