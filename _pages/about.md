@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Scientist at Facebook AI Applied Research. I obtained my PhD degree in Computer Science working with [Nick Duffield](https://nickduffield.net/) at [Texas A&M University](https://www.tamu.edu/). 
 
-I love climbing, hiking, swimming, and ~~would love to learn painting and piano~~(learning) when I have more time. 
+I love climbing, hiking, swimming, and ~~would love to learn painting and piano~~ (learning) when I have more time. 
 
 ## Recent News
 * 2020/08: Our paper Context-aware Deep Representation Learning for Geo-spatiotemporal Analysis was accepted by ICDM 2020.
