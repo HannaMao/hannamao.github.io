@@ -43,7 +43,7 @@ Worked on Ads Targeting team to improve the Broadmatch expander to deliver more 
 Designed and implemented an automatic data assimilation system named Ensemble Kalman Filter for fast history matching of oil production. 
 
 ## Publications
-* **Hanzi Mao**, Xi Liu, Nick Duffield, Hao Yuan, Shuiwang Ji, and Binayak Mohanty. Context-Aware Deep Representation Learning for Geo-Spatiotemporal Analysis. IEEE International Conference on Data Mining (ICDM), x-x, 2020
+* **Hanzi Mao**, Xi Liu, Nick Duffield, Hao Yuan, Shuiwang Ji, and Binayak Mohanty. Context-Aware Deep Representation Learning for Geo-Spatiotemporal Analysis. IEEE International Conference on Data Mining (ICDM), 392-401, 2020
 * **Hanzi Mao**, Dhruva Kathuria, Nick Duffield, Binayak P. Mohanty. Gap Filling of High-Resolution Soil Moisture for SMAP/Sentinel-1: A Two-layer Machine Learning-based Framework. Water Resources Research, vol. 55, no. 8, pp. 6986–7009, 2019. 
 * Weimin Wu, **Hanzi Mao**, Yi Wang, Ji Wang, Wenkai Wang, Chen Tian. CoolConferencing: Enabling Robust Peer-to-Peer Multi-Party Video Conferencing. IEEE Access, 2017.
 * **Hanzi Mao**, Chen Tian, Jingdong Sun, Junhua Yan, Weimin Wu, Benxiong Huang. Shadow VoD: performance evaluation as a capability in production P2P-CDN hybrid VoD networks. In Proceedings of IEEE USDE, 2014.
